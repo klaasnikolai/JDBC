@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 27 21:46:42 CET 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0142-9b50-5347-00000326b6d8 
+on database directory C:\Users\Klaas\Documents\workspace-sts-3.4.0.RELEASE\jdbcmvn\firstDB with class loader sun.misc.Launcher$AppClassLoader@62d5163a 
+Loaded from file:/C:/Users/Klaas/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_40-b43
+user.dir=C:\Users\Klaas\Documents\workspace-sts-3.4.0.RELEASE\jdbcmvn
+os.name=Windows 8
+os.arch=amd64
+os.version=6.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
